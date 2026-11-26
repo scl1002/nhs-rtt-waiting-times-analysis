@@ -25,3 +25,5 @@ Trauma & Orthopaedics has the most long waiters: about 1 in 5 of all 52+ week wa
 What I learned
 
 The raw data needed careful validation. Summing all RTT part types, including the "Total" row and adding monthly snapshots together all inflated the figures several times over. I fixed these by filtering to Part_2, excluding the Total row and using the latest month for point-in-time figures.
+
+Linkedin : https://www.linkedin.com/in/chaelin-shin-133746289 utm_source=share_via&utm_content=profile&utm_medium=member_ios
